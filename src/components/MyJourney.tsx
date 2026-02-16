@@ -55,7 +55,7 @@ export function MyJourney() {
                 key={index}
                 className='border-border bg-muted/30 shadow-none'
               >
-                <CardContent className='p-4 flex items-center gap-4'>
+                <CardContent className='px-4 flex items-center gap-4'>
                   <div className='h-2 w-2 rounded-full bg-primary shrink-0' />
                   <span className='text-foreground/70  font-medium'>
                     {item}
