@@ -42,7 +42,7 @@ export default function SocialPlatforms() {
             key={platform.title}
             className='relative overflow-hidden group border-border/50 bg-card hover:shadow-sm transition-all duration-300 shadow-none'
           >
-            <CardContent className='p-8 space-y-4'>
+            <CardContent className='px-8 py-2 space-y-4'>
               <div className='flex justify-between items-start'>
                 <div className='p-3 rounded-2xl bg-muted group-hover:bg-background transition-colors'>
                   {platform.icon}

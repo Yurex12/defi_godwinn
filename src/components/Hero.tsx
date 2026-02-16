@@ -31,7 +31,7 @@ export function Hero() {
 
       <div className='w-full relative max-w-150 aspect-square bg-muted rounded-md'>
         <Image
-          src='defi_godwinn.png'
+          src='/defi_godwinn.png'
           alt='Defi GODWINN'
           className='object-cover w-full h-full rounded-md'
           fill
